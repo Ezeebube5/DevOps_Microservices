@@ -1,7 +1,6 @@
-# Udacity Cloud Devops Nanodegree
-# Project 4: Operationalize a machine learning microservice API
+Project 4: Operationalize a machine learning microservice API
 **Author:<a> Ebubechi Ezenwanne</a>**
-[![CircleCI](https://circleci.com/gh/Ezeebube5/DevOps_Microservices.svg?style=svg)]
+![CircleCI](https://circleci.com/gh/Ezeebube5/DevOps_Microservices.svg?style=svg)
 
 **Date: May 03, 2020**
 ## Table of contents
